@@ -1,2 +1,5 @@
 1 word: hello world!!!
 2 word: i say,NOOOOOOO
+3 word:out my way now
+4 word: hallowen day
+5 word: i dont understand
